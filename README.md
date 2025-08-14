@@ -46,6 +46,6 @@ buildFeatures {
 
 ## Capturas de Telas
 <p align="center">
-  <img src="https://github.com/joaopauloleitecosta/calcular-imc/blob/main/imc_inicial.jpg" width="300" alt="Tela inicial">
-  <img src="https://github.com/joaopauloleitecosta/calcular-imc/blob/main/imc_cliquebotao.jpg" width="300" alt="Tela com calculo imc">
+  <img src="https://github.com/joaopauloleitecosta/calcular-imc/blob/main/imc_inicial.png" width="300" alt="Tela inicial">
+  <img src="https://github.com/joaopauloleitecosta/calcular-imc/blob/main/imc_cliquebotao.png" width="300" alt="Tela com calculo imc">
 </p>
